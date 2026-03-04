@@ -1,6 +1,6 @@
 [About](about) | [Skills](skills) | [Projects](projects) | [Career Goals](career-goals) | [Resume](resume)
 
-# Future Network Engineer | Homelab Builder | Problem Solver
+# Network Engineer in Training | Homelab Builder | Problem Solver
 
 Hi, I'm Kris.
 
