@@ -3,7 +3,9 @@
 # Projects
 
 # Cisco Homelab Network
-<img src="assets/images/homelab-topology.drawio.png" alt="Homelab Network Topology" width="700">
+<div style="text-align:center;">
+<img src="assets/images/homelab-banner.jpg" alt="Home Lab Hardware" width="700">
+</div>
 
 A physical Cisco networking lab used to practice routing, switching, OSPF design, and network troubleshooting 
 using enterprise hardware.
@@ -35,7 +37,7 @@ The lab is currently structured as follows:
 ## Network Topology
 
 <div style="text-align:center;">
-<img src="assets/images/homelab-topology.png" alt="Homelab Network Topology" style="width:800px;">
+<img src="assets/images/homelab-topology.png" alt="Homelab Network Topology" style="width:900px;">
 </div>
 
 This diagram shows the current logical topology of my Cisco homelab, including the edge connection to the home network, the OSPF Area 0 transit network between routers, and the LAN segment behind R2 used for client devices and experimentation.
