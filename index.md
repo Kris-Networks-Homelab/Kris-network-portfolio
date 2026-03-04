@@ -1,3 +1,5 @@
+[About](about) | [Skills](skills) | [Projects](projects)
+
 # Future Network Engineer | Homelab Builder | Problem Solver
 
 Hi, I'm Kris.
