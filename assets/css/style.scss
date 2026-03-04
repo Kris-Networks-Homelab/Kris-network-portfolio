@@ -3,11 +3,10 @@
 
 @import "{{ site.theme }}";
 
-/* Banner background image + overlay for Cayman */
 .page-header {
   background-image:
     linear-gradient(rgba(0,120,120,0.85), rgba(0,120,120,0.85)),
-    url("/assets/images/homelab-banner.jpg");
+    url("../images/homelab-banner.jpg");
   background-size: cover;
   background-position: center;
 }
