@@ -1,3 +1,5 @@
+[Home](index) | [About](about) | [Skills](skills) | [Career Goals](career-goals) | [Resume](resume) 
+
 # Projects
 
 ## Cisco Homelab Network (In Progress)
