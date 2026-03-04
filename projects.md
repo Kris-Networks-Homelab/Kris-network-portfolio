@@ -3,6 +3,7 @@
 # Projects
 
 # Cisco Homelab Network
+![Cisco Homelab Lab Hardware](/kris-network-portfolio/assets/images/homelab-banner.jpg)
 
 A physical Cisco networking lab used to practice routing, switching, OSPF design, and network troubleshooting 
 using enterprise hardware.
@@ -92,6 +93,8 @@ The lab is currently structured as follows:
 ---
 
 ## Topology Diagram (Logical)
+
+```
               Internet
                  |
        TP-Link Gateway (192.168.0.1/24)
@@ -99,20 +102,21 @@ The lab is currently structured as follows:
         R1 G0/0/0 (192.168.0.2/24)
                  |
     OSPF Area 0: 10.0.0.0/30 (Transit)
-       R1 G0/0/1 (10.0.0.1)  ----  R2 F0/0 (10.0.0.2)
+       R1 G0/0/1 (10.0.0.1) ---- R2 F0/0 (10.0.0.2)
                  |
             R2 (ABR)
-            R2 F0/1 (10.0.1.253/24)  ← LAN Gateway
+            R2 F0/1 (10.0.1.253/24)
                  |
     OSPF Area 1: 10.0.1.0/24 (LAN)
                  |
-     SW1 VLAN 99 SVI (10.0.1.254/24)  ← Switch Management
+     SW1 VLAN 99 SVI (10.0.1.254/24)
                  |
-   Clients PC/Laptops/RaspberryPi (DHCP/static TBD)
+   Clients PC/Laptops/RaspberryPi
+```
        
 ## Purpose of the Lab
 
-This environment allows experimentation with key networking concepts including:
+This environment is used to practice and document core networking concepts including:
 
 - VLAN segmentation
 - Routing between networks
