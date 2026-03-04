@@ -4,6 +4,8 @@
 
 # Cisco Homelab Network
 
+A physical Cisco networking lab used to practice routing, switching, OSPF design, and network troubleshooting 
+using enterprise hardware.
 ## Overview
 
 This project documents the development of a personal Cisco networking lab used to practice real-world networking concepts and troubleshooting techniques.
