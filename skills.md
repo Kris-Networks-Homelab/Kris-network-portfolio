@@ -1,3 +1,5 @@
+[Home](index) | [About](about) | [Career Goals](career-goals) | [Projects](projects) | [Resume](resume) 
+
 # Skills
 
 ## Networking (Developing)
