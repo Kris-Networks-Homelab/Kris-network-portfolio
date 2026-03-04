@@ -6,6 +6,8 @@ Hi, I'm Kris.
 
 I am an ICT student developing hands-on networking skills through practical labs, infrastructure projects, and professional study. My focus is on network engineering, routing and switching, and real-world troubleshooting.
 
+This portfolio documents my technical learning, homelab development, and progress toward a career in network engineering.
+
 ## Current Focus
 
 - Cisco networking labs
