@@ -1,5 +1,20 @@
 [Home](index) | [About](about) | [Skills](skills) | [Projects](projects) | [Career Goals](career-goals) | [Resume](resume) 
 
+## Target Role: Junior Network Engineer / Network Administrator
+
+A junior network engineer is responsible for assisting in the deployment, configuration, monitoring, and troubleshooting of network infrastructure within an organisation.
+
+Typical responsibilities include:
+
+- Configuring and maintaining routers and switches
+- Monitoring network performance and availability
+- Troubleshooting connectivity and routing issues
+- Assisting with network upgrades and infrastructure projects
+- Maintaining documentation for network systems
+- Supporting senior engineers in network design and implementation
+
+This role requires strong foundational knowledge of networking concepts such as IP addressing, routing protocols, switching, and network security, along with the ability to diagnose and resolve infrastructure issues.
+
 Short Term Career Goals
 
 Obtain a junior network administrator or network engineer role.
