@@ -36,7 +36,7 @@ The lab is currently structured as follows:
 
 ## Network Topology
 
-![Homelab Network Topology](assets/images/homelab-topology.png)
+<img src="/assets/images/homelab-topology.png" alt="Homelab Network Topology" width="700">
 
 ## IP Addressing Plan (Current)
 
