@@ -34,7 +34,9 @@ The lab is currently structured as follows:
 
 ## Network Topology
 
-<img src="assets/images/homelab-topology.png" alt="Homelab Network Topology" style="max-height:500px;">
+<div style="text-align:center;">
+<img src="assets/images/homelab-topology.png" alt="Homelab Network Topology" style="max-height:450px; max-width:750px;">
+</div>
 
 This diagram shows the current logical topology of my Cisco homelab, including the edge connection to the home network, the OSPF Area 0 transit network between routers, and the LAN segment behind R2 used for client devices and experimentation.
 
