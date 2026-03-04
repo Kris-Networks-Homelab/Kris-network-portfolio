@@ -1,4 +1,4 @@
-[About](about) | [Skills](skills) | [Projects](projects)
+[About](about) | [Skills](skills) | [Projects](projects) | [Career Goals](career-goals) | [Resume](resume)
 
 # Future Network Engineer | Homelab Builder | Problem Solver
 
@@ -21,3 +21,19 @@ I am an ICT student developing hands-on networking skills through practical labs
 ## Career Goal
 
 To begin my career as a **Network Administrator or Junior Network Engineer** and continue developing deep expertise in networking infrastructure.
+
+---
+
+## Current Lab Environment
+
+I maintain a small networking lab used to experiment with routing, switching, and troubleshooting scenarios.
+
+**Infrastructure**
+
+- Cisco 4300 Series Router (R1)
+- Cisco 2600 Series Router (R2)
+- Cisco 2960 Switch (SW1)
+- Raspberry Pi node (Linux)
+- VLAN segmented network environment
+
+This lab allows me to practice real configuration, verification, and troubleshooting workflows beyond simulation tools.
