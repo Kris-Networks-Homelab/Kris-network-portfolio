@@ -3,7 +3,7 @@
 # Projects
 
 # Cisco Homelab Network
-![Cisco Homelab Hardware](../assets/images/homelab-banner.jpg)
+![Cisco Homelab Hardware](/Kris-network-portfolio/assets/images/homelab-banner.jpg)
 
 A physical Cisco networking lab used to practice routing, switching, OSPF design, and network troubleshooting 
 using enterprise hardware.
