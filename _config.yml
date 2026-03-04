@@ -1,3 +1,7 @@
+theme: jekyll-theme-cayman
+title: Kris | Future Network Engineer
+description: Network engineering portfolio showcasing homelab projects and professional development.
+
 header_pages:
   - index.md
   - about.md
@@ -5,17 +9,3 @@ header_pages:
   - projects.md
   - career-goals.md
   - resume.md
-
-header_image: /assets/images/homelab-banner.jpg
-
-theme: jekyll-theme-cayman
-title: Kris | Future Network Engineer
-description: Network engineering portfolio showcasing homelab projects and professional development.
-
-.site-header {
-  background:
-    linear-gradient(rgba(0,120,120,0.85), rgba(0,120,120,0.85)),
-    url('/assets/images/homelab-banner.jpg');
-  background-size: cover;
-  background-position: center;
-}
