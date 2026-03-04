@@ -33,6 +33,11 @@ This setup allows simulation of a small routed network with multiple segments an
 ## Network Topology
 
 The lab is currently structured as follows:
+
+## Network Topology
+
+![Homelab Network Topology](assets/images/homelab-topology.png)
+
 ## IP Addressing Plan (Current)
 
 ### Edge / Internet Network (192.168.0.0/24)
