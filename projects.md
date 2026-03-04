@@ -30,13 +30,11 @@ This setup allows simulation of a small routed network with multiple segments an
 
 ---
 
-## Network Topology
-
 The lab is currently structured as follows:
 
 ## Network Topology
 
-<img src="/assets/images/homelab-topology.png" alt="Homelab Network Topology" style="max-width:700px;">
+<img src="assets/images/homelab-topology.png" alt="Homelab Network Topology" style="max-width:700px;">
 
 This diagram shows the current logical topology of my Cisco homelab, including the edge connection to the home network, the OSPF Area 0 transit network between routers, and the LAN segment behind R2 used for client devices and experimentation.
 
