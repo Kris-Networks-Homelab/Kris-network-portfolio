@@ -1,3 +1,5 @@
+[Home](index) | [Skills](skills) | [Projects](projects) | [Career Goals](career-golas) | [Resume](resume)
+
 # About Me
 
 Hi, I'm Kris — an ICT student focused on becoming a Network Engineer.
