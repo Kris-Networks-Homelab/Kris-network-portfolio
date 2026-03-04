@@ -38,6 +38,8 @@ The lab is currently structured as follows:
 
 <img src="/assets/images/homelab-topology.png" alt="Homelab Network Topology" width="700">
 
+This diagram shows the current logical topology of my Cisco homelab, including the edge connection to the home network, the OSPF Area 0 transit network between routers, and the LAN segment behind R2 used for client devices and experimentation.
+
 ## IP Addressing Plan (Current)
 
 ### Edge / Internet Network (192.168.0.0/24)
