@@ -20,3 +20,11 @@
 - Clear documentation
 - Team collaboration
 - Curiosity-led learning
+
+## Graduate Attributes
+
+• Problem solving and troubleshooting  
+• Technical documentation and communication  
+• Analytical thinking and fault isolation  
+• Collaboration and professional communication  
+• Continuous learning and technical curiosity
