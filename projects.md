@@ -135,5 +135,10 @@ This environment is used to practice and document core networking concepts inclu
 
 Future updates to this project will include configuration examples, troubleshooting scenarios, and verification outputs from the lab environment.
 
-## ICT Capstone Project (Starting)
-This portfolio will include reflections on project management, teamwork, technology use, culture awareness, and professional ethics as the project progresses.
+## Capstone Project – CSC3600
+
+This ePortfolio was developed as part of the CSC3600 Capstone Project at university. This section will be updated on completion of the project.
+
+The project focuses on presenting professional skills, career development, and technical work completed throughout my studies.
+
+
