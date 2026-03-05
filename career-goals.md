@@ -17,16 +17,32 @@ Typical responsibilities include:
 
 This role requires strong foundational knowledge of networking concepts such as IP addressing, routing protocols, switching, and network security, along with the ability to diagnose and resolve infrastructure issues.
 
-## Short Term Career Goals
+## Career Goals
 
-Obtain a junior network administrator or network engineer role.
-Continue developing practical networking skills through homelab experimentation and certification study.
+My goal is to build a career in network engineering, focusing on the
+design, implementation, and troubleshooting of reliable network
+infrastructure. Through my studies and homelab work I am developing
+the practical skills needed to begin working in network or
+infrastructure support roles.
 
-## Medium Term Career Goals
+### Short-Term Goals (0–2 Years)
 
-Achieve CCNA certification and gain experience managing routed and switched network infrastructure.
+• Complete my Bachelor of Information Technology (Network Engineering).  
+• Continue developing hands-on networking skills through my Cisco homelab.  
+• Strengthen my understanding of routing, switching, and network troubleshooting.  
+• Obtain industry certifications such as CCNA to support entry-level roles.  
+• Secure a junior networking, infrastructure, or IT support role.
 
-## Long Term Career Goals 
+### Mid-Term Goals (3–5 Years)
 
-Progress into a senior network engineering or infrastructure role focused on network architecture and design.
+• Gain professional experience working with enterprise networking equipment.  
+• Develop deeper expertise in routing, switching, and network troubleshooting.  
+• Work toward more advanced certifications in networking or infrastructure.  
+• Take on increasing responsibility in network administration or engineering roles.
+
+### Long-Term Goals (5+ Years)
+
+• Progress into a network engineer or infrastructure engineer role.  
+• Contribute to the design and implementation of reliable network systems.  
+• Continue developing expertise in networking technologies and infrastructure architecture.
 
