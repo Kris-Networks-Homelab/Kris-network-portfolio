@@ -1,5 +1,10 @@
 [Home](index) | [About](about) | [Skills](skills) | [Projects](projects) | [Career Goals](career-goals) | [Resume](resume) 
 
+### Connect
+
+- LinkedIn: https://www.linkedin.com/in/kris-ellison81
+- GitHub: https://github.com/kris-networks-homelab
+
 # Network Engineer in Training | Homelab Builder | Problem Solver
 
 Hi, I'm Kris.
