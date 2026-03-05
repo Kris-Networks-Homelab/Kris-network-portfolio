@@ -2,8 +2,8 @@
 
 ### Connect
 
-- LinkedIn: https://www.linkedin.com/in/kris-ellison81
-- GitHub: https://github.com/kris-networks-homelab
+🔗 [LinkedIn](https://www.linkedin.com/in/kris-ellison81)  
+💻 [GitHub](https://github.com/Kris-Networks-Homelab)
 
 # Network Engineer in Training | Homelab Builder | Problem Solver
 
