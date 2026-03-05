@@ -1,4 +1,4 @@
-[Home](index) | [About](about) | [Skills](skills) | [Projects](projects) | [Career Goals](career-goals) | [Resume](resume) 
+[Home](index) | [About](about) | [Skills](skills) | [Projects](projects) | [Career Goals](career-goals) | [Resume](resume) | [Cover Letter](cover-letter)
 
 # Skills
 
