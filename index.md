@@ -5,7 +5,8 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/kris-ellison81)  
 💻 [GitHub](https://github.com/Kris-Networks-Homelab)
 
-# Network Engineer in Training | Homelab Builder | Problem Solver
+## Network Engineer (CCNA Track)  
+## Hands-on Cisco Lab Builder | Routing • Switching • Troubleshooting
 
 Hi, I'm Kris.
 
