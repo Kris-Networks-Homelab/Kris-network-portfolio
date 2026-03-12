@@ -154,5 +154,6 @@ One of the key lessons I gained from the capstone experience is that successful 
 ## Career Goals and Action Plan
 
 This capstone project has reinforced that I am not interested in any of the areas that were part of the project and I shall continue with my original interest, and major of Network Engineering.
+I will continue to complete my degree in Network Engineering and look to complete my CCNA in the near future.
 
 
