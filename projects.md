@@ -135,10 +135,24 @@ This environment is used to practice and document core networking concepts inclu
 
 Future updates to this project will include configuration examples, troubleshooting scenarios, and verification outputs from the lab environment.
 
-## Capstone Project – CSC3600
+## Capstone Project – CSC3600 (Please ignore this section unless marking it)
 
-This ePortfolio was developed as part of the CSC3600 Capstone Project at university. This section will be updated on completion of the project.
+## Capstone Project Reflection
 
-The project focuses on presenting professional skills, career development, and technical work completed throughout my studies.
+During my capstone project, I worked as part of a team to design and develop an AI-assisted language processing system capable of recognising spoken input, translating it into English, and classifying the emotional tone of the speech. The system integrates speech recognition, translation technologies, and machine learning models to analyse and interpret spoken communication.
+
+My role in the project involved contributing to the system design, analysing technical requirements, and assisting with the implementation and testing of different components of the solution. The project required collaboration with team members to plan tasks, manage risks, and ensure that different parts of the system worked together effectively.
+
+Through this experience, I gained a deeper understanding of how multiple technologies can be integrated into a single system to solve complex problems. The project also strengthened my ability to analyse technical problems, communicate ideas within a team environment, and manage project tasks within a structured development process.
+
+## Reflection on Career Concepts
+
+The capstone project provided valuable insight into how real-world ICT projects are planned and executed. Working on a complex system highlighted the importance of teamwork, communication, and structured project management when developing technology solutions.
+
+One of the key lessons I gained from the capstone experience is that successful ICT projects require more than technical knowledge. Collaboration, documentation, and the ability to break down complex problems into manageable tasks are equally important. These skills are essential in professional ICT environments where projects often involve multiple stakeholders and interdisciplinary teams.
+
+## Career Goals and Action Plan
+
+This capstone project has reinforced that I am not interested in any of the areas that were part of the project and I shall continue with my original interest, and major of Network Engineering.
 
 
