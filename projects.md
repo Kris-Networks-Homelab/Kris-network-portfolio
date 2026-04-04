@@ -145,6 +145,18 @@ My role in the project involved contributing to the system design, analysing tec
 
 Through this experience, I gained a deeper understanding of how multiple technologies can be integrated into a single system to solve complex problems. The project also strengthened my ability to analyse technical problems, communicate ideas within a team environment, and manage project tasks within a structured development process.
 
+### Key Contributions
+- Contributed to system design and requirement analysis
+- Assisted in implementation and testing of system components
+- Collaborated with team members to plan tasks and manage project risks
+- Supported integration of multiple technologies within the system
+
+### Key Learnings
+- Gained insight into structured ICT project management processes
+- Developed stronger teamwork and communication skills in a collaborative environment
+- Improved ability to break down complex technical problems into manageable tasks
+- Learned the importance of documentation and coordination in multi-component systems
+
 ## Reflection on Career Concepts
 
 The capstone project provided valuable insight into how real-world ICT projects are planned and executed. Working on a complex system highlighted the importance of teamwork, communication, and structured project management when developing technology solutions.
