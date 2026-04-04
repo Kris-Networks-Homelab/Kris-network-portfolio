@@ -55,6 +55,6 @@ Maintenance Technician — GA Perry
 
 ## Resume & Documents
 
-📄 [Download Resume](assets/documents/Kris-Ellison-Resume.pdf)
+📄 [Download Resume](assets/documents/Resume.docx)
 
 📄 [Download Academic Transcript](assets/documents/Transcript.pdf)
