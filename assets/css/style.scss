@@ -11,3 +11,21 @@
   background-position: center;
 }
 
+.top-nav {
+    margin-bottom: 20px;
+}
+
+.top-nav a {
+    text-decoration: none;
+    color: #4FC3F7;
+    padding: 6px 10px;
+    transition: 0.2s ease;
+}
+
+.top-nav a:hover {
+    color: #81D4FA;
+}
+
+.top-nav a.nav-active {
+    border-bottom: 2px solid #4FC3F7;
+}
