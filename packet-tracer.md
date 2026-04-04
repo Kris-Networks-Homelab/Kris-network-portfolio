@@ -1,8 +1,4 @@
----
-layout: default
-title: Packet Tracer Labs
-permalink: /packet-tracer/
----
+
 
 [Home](index) | [About](about) | [Skills](skills) | [Projects](projects) | [Packet Tracer](packet-tracer) | [Career Goals](career-goals) | [Resume](resume) | [Cover Letter](cover-letter)
 
