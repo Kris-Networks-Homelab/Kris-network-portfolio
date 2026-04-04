@@ -1,12 +1,12 @@
 <nav class="top-nav">
-  <a href="index.html">Home</a> |
-  <a href="about.html">About</a> |
-  <a href="skills.html" class="nav-active">Skills</a> |
-  <a href="projects.html">Projects</a> |
-  <a href="packet-tracer.html">Packet Tracer</a> |
-  <a href="career-goals.html">Career Goals</a> |
-  <a href="resume.html">Resume</a> |
-  <a href="cover-letter.html">Cover Letter</a>
+  <a href="/kris-network-portfolio/">Home</a> |
+  <a href="/kris-network-portfolio/about">About</a> |
+  <a href="/kris-network-portfolio/skills" class="nav-active">Skills</a> |
+  <a href="/kris-network-portfolio/projects">Projects</a> |
+  <a href="/kris-network-portfolio/packet-tracer">Packet Tracer</a> |
+  <a href="/kris-network-portfolio/career-goals">Career Goals</a> |
+  <a href="/kris-network-portfolio/resume">Resume</a> |
+  <a href="/kris-network-portfolio/cover-letter">Cover Letter</a>
 </nav>
 
 # Skills
