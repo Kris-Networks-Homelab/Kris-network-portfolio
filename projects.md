@@ -1,12 +1,12 @@
 <nav class="top-nav">
-  <a href="index.html">Home</a> |
-  <a href="about.html">About</a> |
-  <a href="skills.html" class="nav-active">Skills</a> |
-  <a href="projects.html">Projects</a> |
-  <a href="packet-tracer.html">Packet Tracer</a> |
-  <a href="career-goals.html">Career Goals</a> |
-  <a href="resume.html">Resume</a> |
-  <a href="cover-letter.html">Cover Letter</a>
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/">Home</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/about">About</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/skills">Skills</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/projects" class="nav-active">Projects</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/packet-tracer">Packet Tracer</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/career-goals">Career Goals</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/resume">Resume</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/cover-letter">Cover Letter</a>
 </nav>
 
 # Projects
