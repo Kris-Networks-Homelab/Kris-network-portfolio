@@ -4,7 +4,16 @@ title: Packet Tracer Labs
 permalink: /packet-tracer/
 ---
 
-[Home](index) | [About](about) | [Skills](skills) | [Projects](projects) | [Packet Tracer](packet-tracer) | [Career Goals](career-goals) | [Resume](resume) | [Cover Letter](cover-letter)
+<nav class="top-nav">
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/">Home</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/about">About</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/skills">Skills</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/projects">Projects</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/packet-tracer" class="nav-active">Packet Tracer</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/career-goals">Career Goals</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/resume">Resume</a> |
+  <a href="https://kris-networks-homelab.github.io/kris-network-portfolio/cover-letter">Cover Letter</a>
+</nav>
 
 # Packet Tracer Network Labs
 
