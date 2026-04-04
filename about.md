@@ -1,12 +1,12 @@
 <nav class="top-nav">
-  <a href="index.html">Home</a> |
-  <a href="about.html" class="nav-active">About</a> |
-  <a href="skills.html">Skills</a> |
-  <a href="projects.html">Projects</a> |
-  <a href="packet-tracer.html">Packet Tracer</a> |
-  <a href="career-goals.html">Career Goals</a> |
-  <a href="resume.html">Resume</a> |
-  <a href="cover-letter.html">Cover Letter</a>
+  <a href="./">Home</a> |
+  <a href="./about" class="nav-active">About</a> |
+  <a href="./skills">Skills</a> |
+  <a href="./projects">Projects</a> |
+  <a href="./packet-tracer">Packet Tracer</a> |
+  <a href="./career-goals">Career Goals</a> |
+  <a href="./resume">Resume</a> |
+  <a href="./cover-letter">Cover Letter</a>
 </nav>
 
 # About Me
