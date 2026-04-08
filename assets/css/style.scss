@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+#header_wrap {
+  border: 5px solid yellow !important;
+}
+
 .page-header {
   min-height: 260px !important;
   background-image:
@@ -10,9 +14,5 @@
     url("/images/homelab-banner.jpg") !important;
   background-size: cover !important;
   background-position: center !important;
-  border: 5px solid yellow !important;
 }
 
-body {
-  background: red !important;
-}
