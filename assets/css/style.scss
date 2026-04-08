@@ -5,18 +5,16 @@
 
 .page-header {
   background-image:
-    linear-gradient(rgba(0,120,120,0.4), rgba(0,60,120,0.4)),
+    linear-gradient(rgba(0,120,120,0.25), rgba(0,60,120,0.35)),
     url("../images/homelab-banner.jpg");
   background-size: cover;
   background-position: center;
 }
 
-.page-content a {
-    color: #4FC3F7;
-    text-decoration: none;
+.page-header h1 {
+  text-shadow: 0 0 8px rgba(0,0,0,0.8);
 }
 
-.page-content a:hover {
-    color: #81D4FA;
-    text-decoration: underline;
+.page-header p {
+  text-shadow: 0 0 6px rgba(0,0,0,0.7);
 }
