@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
+  min-height: 260px;
   background-image:
     linear-gradient(rgba(0,120,120,0.12), rgba(0,60,120,0.18)),
     url("/images/homelab-banner.jpg");
@@ -12,9 +13,9 @@
 }
 
 .page-header h1 {
-  text-shadow: 0 0 8px rgba(0,0,0,0.8);
+  text-shadow: 0 0 10px rgba(0,0,0,0.9);
 }
 
 .page-header p {
-  text-shadow: 0 0 6px rgba(0,0,0,0.7);
+  text-shadow: 0 0 8px rgba(0,0,0,0.85);
 }
