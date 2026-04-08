@@ -3,13 +3,8 @@
 
 @import "{{ site.theme }}";
 
- #header_wrap {
-  background: none !important;
-  background-image:
-    linear-gradient(rgba(0,120,120,0.10), rgba(0,60,120,0.16)),
-    url("/images/homelab-banner.jpg") !important;
-  background-size: cover !important;
-  background-position: center !important;
+#header_wrap {
+  background: url("/images/homelab-banner.jpg") center/cover no-repeat !important;
 }
 
 
