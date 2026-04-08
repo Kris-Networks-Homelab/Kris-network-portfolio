@@ -4,18 +4,10 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  min-height: 260px;
+  min-height: 260px !important;
   background-image:
     linear-gradient(rgba(0,120,120,0.12), rgba(0,60,120,0.18)),
-    url("/images/homelab-banner.jpg");
-  background-size: cover;
-  background-position: center;
-}
-
-.page-header h1 {
-  text-shadow: 0 0 10px rgba(0,0,0,0.9);
-}
-
-.page-header p {
-  text-shadow: 0 0 8px rgba(0,0,0,0.85);
+    url("/images/homelab-banner.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
 }
