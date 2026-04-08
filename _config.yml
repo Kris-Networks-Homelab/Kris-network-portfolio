@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-modernist
 title: Kris | Future Network Engineer
 description: Network engineering portfolio showcasing homelab projects and professional development.
 
