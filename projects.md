@@ -168,4 +168,10 @@ One of the key lessons I gained from the capstone experience is that successful 
 This capstone project has reinforced that I am not interested in any of the areas that were part of the project and I shall continue with my original interest, and major of Network Engineering.
 I will continue to complete my degree in Network Engineering and look to complete my CCNA in the near future.
 
+I have over 20 years of experience working in team-based environments across a range of roles and responsibilities. In my day-to-day work, I regularly engage with clients, prepare and deliver quotes, carry out technical work, and manage payments. This has built strong communication, accountability, and time management skills under real-world pressure.
+
+Because of this, many of the teamwork and coordination aspects of this project were not new to me. Working with others, managing responsibilities, and keeping things moving are already part of what I do every day. However, this project still reinforced how important those fundamentals are when applied in a more structured environment, particularly where multiple people are contributing to different parts of the system.
+
+The main value for me was in applying those existing skills within a technical project context, working alongside people with different strengths, and adapting to a formal development framework. It also highlighted that even when the core skills are familiar, the way they are applied can change depending on the environment, tools, and expectations.
+
 
