@@ -15,9 +15,12 @@
 
 /* Main content card */
 .main_content_wrap {
-  background-color: #eef3f8;
+  width: 100%;
+}
+
+.main_content.inner {
   width: 90%;
-  max-width: 1000px;
+  max-width: 900px;
   margin: 32px auto;
 }
 
