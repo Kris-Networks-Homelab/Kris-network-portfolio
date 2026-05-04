@@ -55,6 +55,13 @@ body {
   transition: all 0.2s ease;
 }
 
+.page-nav a.active {
+  background-color: #1f4f7a;
+  color: #ffffff;
+  border-color: #1f4f7a;
+  box-shadow: 0 4px 10px rgba(31, 79, 122, 0.18);
+}
+
 /* Button hover effect */
 .page-nav a:hover {
   background-color: #1f4f7a;
