@@ -1,4 +1,13 @@
-[Home](index) | [About](about) | [Skills](skills) | [Projects](projects) | [Packet Tracer](packet-tracer) | [Career Goals](career-goals) | [Resume](resume) | [Cover Letter](cover-letter)
+<nav class="page-nav">
+  <a href="index">Home</a>
+  <a href="about">About</a>
+  <a href="skills">Skills</a>
+  <a href="projects">Projects</a>
+  <a href="packet-tracer">Packet Tracer</a>
+  <a href="career-goals">Career Goals</a>
+  <a href="resume">Resume</a>
+  <a href="cover-letter">Cover Letter</a>
+</nav>
 
 ## Professional Profile
 
