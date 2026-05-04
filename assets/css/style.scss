@@ -3,28 +3,30 @@
 
 @import "{{ site.theme }}";
 
-#header_wrap {
+.header_wrap {
   background: linear-gradient(135deg, #1f1f1f, #2c3e50);
 }
 
 
 /* Main page background */
-body {
+.body {
   background-color: #eef3f8;
 }
 
 /* Main content card */
-#main_content_wrap {
+.main_content_wrap {
   background-color: #eef3f8;
 }
 
-#main_content {
+.main-content {
   background-color: #ffffff;
   padding: 28px 34px;
   border-radius: 14px;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
   margin-top: 32px;
-  margin-bottom: 36px;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Navigation area */
