@@ -1,7 +1,7 @@
 <nav class="page-nav">
   <a href="index">Home</a>
   <a href="about">About</a>
-  <a href="skills">Skills</a>
+  <a class="active" href="skills">Skills</a>
   <a href="projects">Projects</a>
   <a href="packet-tracer">Packet Tracer</a>
   <a href="career-goals">Career Goals</a>
