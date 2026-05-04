@@ -64,6 +64,6 @@ Maintenance Technician — GA Perry
 
 ## Resume & Documents
 
-📄 [Download Resume](assets/documents/Resume.pdf))
+📄 [Download Resume](assets/documents/Resume.pdf)
 
 📄 [Download Academic Transcript](assets/documents/Transcript.pdf)
