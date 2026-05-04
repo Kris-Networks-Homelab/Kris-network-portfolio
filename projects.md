@@ -13,7 +13,7 @@
 
 # Cisco Homelab Network
 <div style="text-align:center;">
-<img src="assets/images/homelab-banner.jpg" alt="Home Lab Hardware" width="700">
+  <img src="assets/images/homelab-banner.jpg" alt="Home Lab Hardware" class="project-image">
 </div>
 
 A physical Cisco networking lab used to practice routing, switching, OSPF design, and network troubleshooting 
