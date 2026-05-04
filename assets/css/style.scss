@@ -16,21 +16,9 @@
 /* Main content card */
 .main_content_wrap {
   background-color: #eef3f8;
-}
-
-.main-content {
-  max-width: 1200px;
-  border: 5px solid red;
-}
-main-content {
-  background-color: #ffffff;
-  padding: 28px 34px;
-  border-radius: 14px;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
-  margin-top: 32px;
-  max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 90%;
+  max-width: 1000px;
+  margin: 32px auto;
 }
 
 /* Navigation area */
