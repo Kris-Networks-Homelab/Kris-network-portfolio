@@ -76,3 +76,15 @@ body {
   transform: translateY(0);
 }
 
+.project-image {
+  width: 100%;
+  max-width: 700px;
+  height: 320px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
