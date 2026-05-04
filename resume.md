@@ -5,7 +5,7 @@
   <a href="projects">Projects</a>
   <a href="packet-tracer">Packet Tracer</a>
   <a href="career-goals">Career Goals</a>
-  <a href="resume">Resume</a>
+  <a class="active" href="resume">Resume</a>
   <a href="cover-letter">Cover Letter</a>
 </nav>
 
