@@ -1,5 +1,5 @@
 <nav class="page-nav">
-  <a href="index">Home</a>
+  <a class="active" href="index">Home</a>
   <a href="about">About</a>
   <a href="skills">Skills</a>
   <a href="projects">Projects</a>
