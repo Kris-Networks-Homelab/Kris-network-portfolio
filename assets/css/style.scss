@@ -8,5 +8,35 @@
 }
 
 
+.page-nav {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin: 24px 0;
+  flex-wrap: wrap;
+}
 
+.page-nav a {
+  text-decoration: none;
+  color: #1f4f7a;
+  background-color: #ffffff;
+  border: 1px solid #cfd8e3;
+  padding: 10px 14px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.page-nav a:hover {
+  background-color: #1f4f7a;
+  color: #ffffff;
+  border-color: #1f4f7a;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+}
+
+.page-nav a:active {
+  transform: translateY(0);
+}
 
