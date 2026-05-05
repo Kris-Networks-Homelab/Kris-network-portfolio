@@ -148,39 +148,47 @@ Future updates to this project will include configuration examples, troubleshoot
 
 ## Capstone Project Reflection
 
-During my capstone project, I worked as part of a team to design and develop an AI-assisted language processing system capable of recognising spoken input, translating it into English, and classifying the emotional tone of the speech. The system integrates speech recognition, translation technologies, and machine learning models to analyse and interpret spoken communication.
+CareShield AI – AI-Assisted Case Note Documentation System
 
-My role in the project involved contributing to the system design, analysing technical requirements, and assisting with the implementation and testing of different components of the solution. The project required collaboration with team members to plan tasks, manage risks, and ensure that different parts of the system worked together effectively.
+During my capstone project, I worked as part of a team to design and develop CareShield AI, a proof-of-concept system created to support aged care and NDIS workers with case note documentation. The system was designed to reduce administrative workload by allowing workers to enter information through voice or text, which could then be processed into structured case notes.
 
-Through this experience, I gained a deeper understanding of how multiple technologies can be integrated into a single system to solve complex problems. The project also strengthened my ability to analyse technical problems, communicate ideas within a team environment, and manage project tasks within a structured development process.
+The project combined several technologies, including speech-to-text processing, translation, and AI-assisted text generation. The aim was to improve the consistency, completeness, and efficiency of documentation while considering the privacy and professional responsibilities involved in handling sensitive client information.
 
-### Key Contributions
-- Contributed to system design and requirement analysis
-- Assisted in implementation and testing of system components
-- Collaborated with team members to plan tasks and manage project risks
-- Supported integration of multiple technologies within the system
+## My Role
 
-### Key Learnings
-- Gained insight into structured ICT project management processes
-- Developed stronger teamwork and communication skills in a collaborative environment
-- Improved ability to break down complex technical problems into manageable tasks
-- Learned the importance of documentation and coordination in multi-component systems
+My role in the project involved contributing to project planning, system analysis, documentation, risk identification, and team coordination. I also supported the development process by helping analyse requirements, understand how the system components connected, and consider how the solution could be presented clearly to a client or stakeholder audience.
+
+Although my main career direction is network engineering, this project gave me valuable experience working within a structured ICT project environment. It helped me better understand how software, AI tools, databases, and user-facing systems can be combined to solve a real-world business problem.
+
+## Key Contributions
+Contributed to project planning and requirement analysis.
+Assisted with documentation and project reporting.
+Helped identify project risks, including workload, team participation, technical complexity, and privacy concerns.
+Supported team communication and coordination during the project.
+Contributed to the presentation of the final proof-of-concept system.
+Reflected on ethical and privacy considerations related to sensitive aged care and NDIS documentation.
+Key Learnings
+
+Through this project, I developed a stronger understanding of how ICT projects are planned, managed, and delivered in a team environment. The project showed me that successful ICT work depends not only on technical development, but also on communication, documentation, accountability, and ethical decision-making.
+
+I also gained insight into the importance of privacy, security, and responsible AI use when working with sensitive information. Since CareShield AI involved case notes and personal client information, it was important to consider how data should be handled, stored, and protected.
 
 ## Reflection on Career Concepts
 
-The capstone project provided valuable insight into how real-world ICT projects are planned and executed. Working on a complex system highlighted the importance of teamwork, communication, and structured project management when developing technology solutions.
+The CareShield AI project was outside my main technical focus of network engineering, but it still strengthened skills that are highly relevant to my future career. These included requirements analysis, technical documentation, teamwork, communication, risk awareness, and professional responsibility.
 
-One of the key lessons I gained from the capstone experience is that successful ICT projects require more than technical knowledge. Collaboration, documentation, and the ability to break down complex problems into manageable tasks are equally important. These skills are essential in professional ICT environments where projects often involve multiple stakeholders and interdisciplinary teams.
+The project also reinforced the importance of reliable ICT infrastructure. Systems like CareShield AI depend on secure networks, stable backend services, protected databases, and dependable access for users. This helped me connect the project back to my interest in network engineering, where reliable infrastructure plays a key role in supporting real-world applications.
 
 ## Career Goals and Action Plan
 
-This capstone project has reinforced that I am not interested in any of the areas that were part of the project and I shall continue with my original interest, and major of Network Engineering.
-I will continue to complete my degree in Network Engineering and look to complete my CCNA in the near future.
+This capstone project confirmed that my primary career goal remains focused on network engineering and infrastructure. While CareShield AI was centred on AI-assisted documentation, the experience helped me understand how broader ICT systems rely on strong technical foundations, including secure connectivity, system reliability, and effective documentation.
 
-I have over 20 years of experience working in team-based environments across a range of roles and responsibilities. In my day-to-day work, I regularly engage with clients, prepare and deliver quotes, carry out technical work, and manage payments. This has built strong communication, accountability, and time management skills under real-world pressure.
+My short-term goal is to complete my Bachelor of Information Technology with a focus on Network Engineering, continue developing hands-on skills through my Cisco homelab, and work toward completing the CCNA certification.
 
-Because of this, many of the teamwork and coordination aspects of this project were not new to me. Working with others, managing responsibilities, and keeping things moving are already part of what I do every day. However, this project still reinforced how important those fundamentals are when applied in a more structured environment, particularly where multiple people are contributing to different parts of the system.
+My mid-term goal is to gain experience in a junior network engineer, network administrator, or infrastructure support role, where I can apply my technical knowledge in a professional environment.
 
-The main value for me was in applying those existing skills within a technical project context, working alongside people with different strengths, and adapting to a formal development framework. It also highlighted that even when the core skills are familiar, the way they are applied can change depending on the environment, tools, and expectations.
+My long-term goal is to progress into a network engineering or infrastructure engineering position, contributing to the design, implementation, and troubleshooting of reliable network systems.
+
+The capstone project helped strengthen my confidence in working on structured ICT projects and reinforced the value of communication, accountability, documentation, and ethical practice in professional technology environments.
 
 
