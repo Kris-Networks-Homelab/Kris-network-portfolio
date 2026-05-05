@@ -144,7 +144,7 @@ This environment is used to practice and document core networking concepts inclu
 
 Future updates to this project will include configuration examples, troubleshooting scenarios, and verification outputs from the lab environment.
 
-## Capstone Project – CSC3600 (Please disregard this section unless marking it)
+## Capstone Project – CSC3600
 
 ## Capstone Project Reflection
 
