@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: Kris | Future Network Engineer
-description: Network engineering portfolio showcasing homelab projects and professional development.
+title: Kris | Network Engineering Portfolio
+description: Network Engineering | CCNA Track | Cisco Homelab | Routing, Switching & Troubleshooting
 
 header_pages:
   - index.md
