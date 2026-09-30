@@ -23,7 +23,7 @@ Technical professional transitioning into network engineering after a long techn
 
 ## Practical Development
 
-My physical lab uses Cisco routers, a Catalyst switch, and Linux endpoints for configuration, verification, and fault isolation. Packet Tracer extends that work into broader routing, switching, network services, security, and wireless scenarios. This hands-on development supports my career transition alongside formal study and CCNA preparation.
+My physical lab uses Cisco routers, a Catalyst switch, and Linux endpoints for configuration, verification, and fault isolation. Packet Tracer extends that work into broader routing, switching, network services, security, and wireless scenarios. This hands-on development complements my formal study and CCNA preparation.
 
 ## Transferable Experience
 
@@ -34,8 +34,8 @@ My trade career has required systematic fault-finding, safe and methodical work,
 - Bachelor of Information Technology, Network Engineering focus — in progress
 - Cisco CCNA preparation — current
 - Diploma of Applied Information Technology
-- Associate Degree of Information Technology
+- Associate Degree of Applied Information Technology
 
 ## Career Direction
 
-Seeking a role in networking, NOC operations, infrastructure, junior network engineering or network administration, or IT support with meaningful networking exposure. Longer term, I intend to progress into network or infrastructure engineering.
+Seeking networking, NOC, infrastructure, junior network engineering, network administration, or IT support roles with meaningful networking exposure. Longer term, I intend to progress into network or infrastructure engineering.

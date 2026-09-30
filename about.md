@@ -18,4 +18,4 @@ I am completing a Bachelor of Information Technology focused on Network Engineer
 
 Cisco Packet Tracer complements the physical lab by letting me design and test broader scenarios involving VLANs, trunks, inter-VLAN routing, OSPF, NAT/PAT, DHCP, ACLs, and wireless infrastructure concepts.
 
-This portfolio documents a deliberate career change and sustained hands-on development. I am seeking an opportunity in networking, NOC operations, infrastructure, network administration, or IT support with meaningful networking exposure.
+I am seeking an entry point in network operations or infrastructure where I can contribute that practical mindset and continue developing hands-on capability.

@@ -33,6 +33,6 @@ My trade background brings an established approach to fault-finding: understand 
 
 ## Career Direction
 
-I am targeting roles in networking, NOC operations, infrastructure, junior network engineering or network administration, and IT support with meaningful networking exposure. My aim is to contribute a practical troubleshooting mindset while continuing to build professional network operations experience.
+I am targeting networking and infrastructure roles, including NOC, junior network engineering, network administration, or IT support positions with meaningful networking exposure. My aim is to contribute a practical troubleshooting mindset while continuing to build professional network operations experience.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/kris-ellison81) or view my work on [GitHub](https://github.com/Kris-Networks-Homelab).

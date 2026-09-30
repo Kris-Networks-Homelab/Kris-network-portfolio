@@ -12,7 +12,7 @@
 
 ## Immediate
 
-Move into a role in networking, NOC operations, infrastructure, junior network engineering or network administration, or IT support with meaningful networking exposure. I want to contribute practical fault-finding, disciplined work habits, and clear documentation while developing experience in professional network operations.
+Secure a networking, NOC, infrastructure, junior network engineering, network administration, or IT support role with meaningful networking exposure. I want to contribute practical fault-finding, disciplined work habits, and clear documentation while developing experience in professional network operations.
 
 ## Near Term
 
