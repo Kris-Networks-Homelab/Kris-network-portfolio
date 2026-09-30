@@ -5,53 +5,22 @@
   <a href="projects">Projects</a>
   <a href="packet-tracer">Packet Tracer</a>
   <a class="active" href="career-goals">Career Goals</a>
-  <a href="resume">Resume</a>
-  <a href="cover-letter">Cover Letter</a>
+  <a href="resume">Professional Profile</a>
 </nav>
 
-# Career Development Plan
+# Career Goals
 
-## Target Role: Junior Network Engineer / Network Administrator
+## Immediate
 
-A junior network engineer is responsible for assisting in the deployment, configuration, monitoring, and troubleshooting of network infrastructure within an organisation.
+Move into a role in networking, NOC operations, infrastructure, junior network engineering or network administration, or IT support with meaningful networking exposure. I want to contribute practical fault-finding, disciplined work habits, and clear documentation while developing experience in professional network operations.
 
-Typical responsibilities include:
+## Near Term
 
-- Configuring and maintaining routers and switches
-- Monitoring network performance and availability
-- Troubleshooting connectivity and routing issues
-- Assisting with network upgrades and infrastructure projects
-- Maintaining documentation for network systems
-- Supporting senior engineers in network design and implementation
+- Complete my Bachelor of Information Technology focused on Network Engineering
+- Achieve the Cisco CCNA
+- Keep developing hands-on capability through the physical Cisco homelab, Packet Tracer, and Linux
+- Build professional experience supporting reliable network and infrastructure services
 
-This role requires strong foundational knowledge of networking concepts such as IP addressing, routing protocols, switching, and network security, along with the ability to diagnose and resolve infrastructure issues.
+## Longer Term
 
-## Career Goals
-
-My goal is to build a career in network engineering, focusing on the
-design, implementation, and troubleshooting of reliable network
-infrastructure. Through my studies and homelab work I am developing
-the practical skills needed to begin working in network or
-infrastructure support roles.
-
-### Short-Term Goals (0–2 Years)
-
-• Complete my Bachelor of Information Technology (Network Engineering).  
-• Continue developing hands-on networking skills through my Cisco homelab.  
-• Strengthen my understanding of routing, switching, and network troubleshooting.  
-• Obtain industry certifications such as CCNA to support entry-level roles.  
-• Secure a junior networking, infrastructure, or IT support role.
-
-### Mid-Term Goals (3–5 Years)
-
-• Gain professional experience working with enterprise networking equipment.  
-• Develop deeper expertise in routing, switching, and network troubleshooting.  
-• Work toward more advanced certifications in networking or infrastructure.  
-• Take on increasing responsibility in network administration or engineering roles.
-
-### Long-Term Goals (5+ Years)
-
-• Progress into a network engineer or infrastructure engineer role.  
-• Contribute to the design and implementation of reliable network systems.  
-• Continue developing expertise in networking technologies and infrastructure architecture.
-
+Progress into network or infrastructure engineering, with increasing responsibility for implementing, maintaining, and troubleshooting dependable systems.
