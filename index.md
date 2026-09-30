@@ -5,52 +5,34 @@
   <a href="projects">Projects</a>
   <a href="packet-tracer">Packet Tracer</a>
   <a href="career-goals">Career Goals</a>
-  <a href="resume">Resume</a>
-  <a href="cover-letter">Cover Letter</a>
+  <a href="resume">Professional Profile</a>
 </nav>
 
-### Connect
+# Network Engineering Portfolio
 
-🔗 [LinkedIn](https://www.linkedin.com/in/kris-ellison81)  
-💻 [GitHub](https://github.com/Kris-Networks-Homelab)
+**Network Engineering | CCNA Track | Cisco Homelab | Routing, Switching & Troubleshooting**
 
-## Network Engineer (CCNA Track)  
-## Hands-on Cisco Lab Builder | Routing • Switching • Troubleshooting
+Hi, I’m Kris—a technical professional deliberately transitioning from a long trade career into network engineering.
 
-Hi, I'm Kris.
+I am completing a Bachelor of Information Technology focused on Network Engineering and preparing for the Cisco CCNA. My technical development combines a physical Cisco homelab, Cisco Packet Tracer network design and configuration work, Linux, and structured troubleshooting practice.
 
-I am an ICT student developing hands-on networking skills through practical labs, infrastructure projects, and professional study. My focus is on network engineering, routing and switching, and real-world troubleshooting.
+My trade background brings an established approach to fault-finding: understand the system, work safely and methodically, verify each stage, document the result, and stay composed when the problem is time-sensitive. I am now applying that mindset to routing, switching, network services, and connectivity issues.
 
-This portfolio documents my technical learning, homelab development, and progress toward a career in network engineering.
+## Practical Networking Work
 
-## Current Focus
+- **Physical Cisco homelab:** Cisco 4300 and 2600 series routers, a Catalyst 2960 switch, Linux endpoints, routed segments, and a documented multi-area OSPF design.
+- **Packet Tracer labs:** VLANs, 802.1Q trunks, router-on-a-stick, OSPF, NAT/PAT, DHCP, ACLs, wireless/WLC concepts, and fault isolation.
+- **Current technical focus:** Cisco IOS, IPv4 addressing and subnetting, routing and switching, network services, Linux networking, and repeatable verification workflows.
 
-- Cisco networking labs
-- CCNA preparation
-- Network troubleshooting
-- Infrastructure design
+## Explore the Portfolio
 
-## Projects
+- [Projects](projects) — physical homelab topology, addressing, OSPF design, and project experience
+- [Packet Tracer](packet-tracer) — practical network simulation work
+- [Skills](skills) — technical capabilities, tools, and troubleshooting approach
+- [Professional Profile](resume) — education, career transition, and target roles
 
-- Cisco Homelab Network
-- ICT Capstone Project
+## Career Direction
 
-## Career Goal
+I am targeting roles in networking, NOC operations, infrastructure, junior network engineering or network administration, and IT support with meaningful networking exposure. My aim is to contribute a practical troubleshooting mindset while continuing to build professional network operations experience.
 
-To begin my career as a **Network Administrator or Junior Network Engineer** and continue developing deep expertise in networking infrastructure.
-
----
-
-## Current Lab Environment
-
-I maintain a small networking lab used to experiment with routing, switching, and troubleshooting scenarios.
-
-**Infrastructure**
-
-- Cisco 4300 Series Router (R1)
-- Cisco 2600 Series Router (R2)
-- Cisco 2960 Switch (SW1)
-- Raspberry Pi node (Linux)
-- VLAN segmented network environment
-
-This lab allows me to practice real configuration, verification, and troubleshooting workflows beyond simulation tools.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kris-ellison81) or view my work on [GitHub](https://github.com/Kris-Networks-Homelab).

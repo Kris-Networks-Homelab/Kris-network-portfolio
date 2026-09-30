@@ -5,65 +5,37 @@
   <a href="projects">Projects</a>
   <a href="packet-tracer">Packet Tracer</a>
   <a href="career-goals">Career Goals</a>
-  <a class="active" href="resume">Resume</a>
-  <a href="cover-letter">Cover Letter</a>
+  <a class="active" href="resume">Professional Profile</a>
 </nav>
 
-## Professional Profile
+# Professional Profile
 
-Practical IT support professional transitioning into network engineering after a 20+ year technical trade career. Currently completing a Bachelor of Information Technology (Network Engineering) and developing hands-on networking experience through homelab infrastructure projects and troubleshooting exercises.
+Technical professional transitioning into network engineering after a long technical trade career. I am completing a Bachelor of Information Technology focused on Network Engineering, preparing for the Cisco CCNA, and developing practical networking capability through a physical Cisco homelab, Cisco Packet Tracer, and Linux.
 
-My focus areas include routing and switching, network troubleshooting, and Linux systems.
+## Networking Focus
 
----
+- Cisco IOS, IPv4 addressing, and subnetting
+- VLANs, 802.1Q trunks, and inter-VLAN routing
+- Static/default routing and OSPF
+- NAT/PAT, DHCP, DNS troubleshooting, and ACLs
+- Wireless networking and WLC/lightweight AP concepts
+- Structured connectivity troubleshooting and technical documentation
 
-## Key Technical Skills
+## Practical Development
 
-Networking
-• TCP/IP and subnetting
-• VLANs and trunking (802.1Q)
-• Inter-VLAN routing
-• OSPF routing fundamentals
-• Layer 2 switching concepts (STP, EtherChannel)
+My physical lab uses Cisco routers, a Catalyst switch, and Linux endpoints for configuration, verification, and fault isolation. Packet Tracer extends that work into broader routing, switching, network services, security, and wireless scenarios. This hands-on development supports my career transition alongside formal study and CCNA preparation.
 
-Systems
-• Ubuntu Linux (CLI)
-• User and permission management
-• Basic package management
+## Transferable Experience
 
-Development Fundamentals
-• Bash scripting basics
-• SQL fundamentals
-• Basic Java and HTML
+My trade career has required systematic fault-finding, safe and methodical work, accurate interpretation of technical information, clear communication, documentation, and calm decision-making under pressure. I bring those established working habits to networking and infrastructure problems.
 
----
+## Education & Development
 
-## Education
+- Bachelor of Information Technology, Network Engineering focus — in progress
+- Cisco CCNA preparation — current
+- Diploma of Applied Information Technology
+- Associate Degree of Information Technology
 
-Bachelor of Information Technology (Network Engineering) — In Progress  
-University of Southern Queensland
+## Career Direction
 
-Diploma of Applied Information Technology
-
-Associate Degree of Applied Information Technology
-
----
-
-## Professional Experience
-
-Commercial Maintenance Technician — MI Plumbers  
-Nov 2024 – Present | WA
-
-Maintenance Technician — Hilton Plumbing  
-Mar 2022 – Oct 2024 | WA
-
-Maintenance Technician — GA Perry  
-2014 – Mar 2022 | WA
-
----
-
-## Resume & Documents
-
-📄 [Download Resume](assets/documents/Resume.pdf)
-
-📄 [Download Academic Transcript](assets/documents/Transcript.pdf)
+Seeking a role in networking, NOC operations, infrastructure, junior network engineering or network administration, or IT support with meaningful networking exposure. Longer term, I intend to progress into network or infrastructure engineering.
